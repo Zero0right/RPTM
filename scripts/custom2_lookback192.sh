@@ -7,7 +7,7 @@ do
     data_name=custom2
 
     seq_len=192
-    for pred_len in 1 96
+    for pred_len in 96
     do
         python -u run.py \
         --is_training 1 \
