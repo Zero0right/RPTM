@@ -54,7 +54,7 @@ class Exp_Main(Exp_Basic):
             'CNN_MLP_MLP': CNN_MLP_MLP,
             'TIDE': TIDE,
             'CNN_GRU_RES': CNN_GRU_RES,
-            'TCN-L': TCN_LINEAR,
+            'TCN_LINEAR': TCN_LINEAR,
             'TCN-MLP': TCN_MLP,
             'TCN_LSTM_LINEAR': TCN_LSTM_LINEAR,
             'CNN_GRU_RES_V2': CNN_GRU_RES_V2,
